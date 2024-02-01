@@ -1,0 +1,11 @@
+Name:  www.wcax.com
+Date:  2020-05-25 03:56:06
+Media: Domain
+Files: 5
+
+﻿System ID,Bucket,Storage ID,In Store,Size,Access Level,Access Level Human,Content Type,Content Type Human,Media,Media Human,Added,Date,Name,X-Score,Simhash,Title,First Alive,Last Alive
+2ac34ed5-10be-4be7-b34a-77b5036c6920,,,true,0,0,Public,1004,URL,14,Website,,2020-05-25 03:56:06,https://www.wcax.com,0,,Home,2020-05-25 03:56:06,2020-11-04 18:17:26
+c932c410-0883-43b8-90b0-4a357f50f86d,,,true,0,0,Public,1004,URL,14,Website,,2020-11-04 18:17:27,https://www.wcax.com/story/29062777/citigroup-and-jpmorgan-fx-currency-rigging-fiasco-was-not-as-negative-to-fundamental-retail-forex-traders-as-most-people-think-says-dmitri-chavkerov,0,,,2020-11-04 18:17:27,2020-11-04 18:17:27
+18905dac-621d-4712-8c77-f29f6236bb9c,,,true,0,0,Public,1004,URL,14,Website,,2020-11-04 18:17:27,https://www.wcax.com/story/24120970/dmitri-chavkerov-of-forex-peace-army-advises-traders-to-be-extra-careful-with-automated-forex-robots-as-they-are-likely-to-eventually-blow-the,0,,,2020-11-04 18:17:27,2020-11-04 18:17:27
+3cbc864e-35d1-45e5-9a00-72da22cf2fac,,,true,0,0,Public,1004,URL,14,Website,,2020-11-04 18:17:27,https://www.wcax.com/story/24432939/barn-fire-in-richmond,0,,,2020-11-04 18:17:27,2020-11-04 18:17:27
+93a8c686-755b-4fcb-86b3-e99be4074795,,,true,0,0,Public,1004,URL,14,Website,,2020-11-04 18:17:27,https://www.wcax.com/weather,0,,,2020-11-04 18:17:27,2020-11-04 18:17:27
