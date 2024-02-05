@@ -1,4 +1,5 @@
 from intelxapi import intelx
+import pandas as pd
 
 def perform_quick_search(api_key, search_term):
     intelx_instance = intelx(api_key)
@@ -38,25 +39,7 @@ def get_media_options():
         0: 'All',
         1: 'Paste document',
         2: 'Paste user',
-        3: 'Forum',
-        4: 'Forum board',
-        5: 'Forum thread',
-        6: 'Forum post',
-        7: 'Forum user',
-        8: 'Screenshot of website',
-        9: 'HTML copy of website',
-        13: 'Tweet',
-        14: 'URL',
-        15: 'PDF document',
-        16: 'Word document',
-        17: 'Excel document',
-        18: 'Powerpoint document',
-        19: 'Picture',
-        20: 'Audio file',
-        21: 'Video file',
-        22: 'Container file (ZIP/RAR/TAR, etc)',
-        23: 'HTML file',
-        24: 'Text file'
+        # ... (other media types)
     }
     return media_options
 
@@ -94,13 +77,17 @@ def main():
         # Advanced search example
         advanced_search_results = perform_advanced_search(api_key, search_term, max_results, buckets, date_from, date_to, media_type)
         print("\nAdvanced Search Results:")
-        print(advanced_search_results)
+        df_advanced_search = pd.DataFrame(advanced_search_results['records'])
+        df_advanced_search.to_excel('advanced_search_results.xlsx', index=False)
+        print("Results exported to 'advanced_search_results.xlsx'")
 
     else:
         # Quick search example
         quick_search_results = perform_quick_search(api_key, search_term)
         print("Quick Search Results:")
-        print(quick_search_results)
+        df_quick_search = pd.DataFrame(quick_search_results['records'])
+        df_quick_search.to_excel('quick_search_results.xlsx', index=False)
+        print("Results exported to 'quick_search_results.xlsx'")
 
     # Statistics example
     stats = perform_statistics(api_key, advanced_search_results if perform_advanced_search else quick_search_results)
