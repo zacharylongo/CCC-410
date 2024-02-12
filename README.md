@@ -19,7 +19,7 @@
 
   
 
-## [Click Here for project contents](https://github.com/zacharylongo/CCC-410/wiki)
+## [Click Here to access project wiki](https://github.com/zacharylongo/CCC-410/wiki)
 
 
 
