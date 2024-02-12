@@ -1,7 +1,7 @@
 from intelxapi import intelx
 
 # Initialize the IntelX class
-intelx_instance = intelx('e9a4f331-3ba5-4787-b0e7-c6b2d360f1a0')  # Replace 'YOUR_API_KEY' with your actual API key
+intelx_instance = intelx('YOUR_API_KEY')  # Replace 'YOUR_API_KEY' with your actual API key
 
 # Quick search example
 results = intelx_instance.search('hackerone.com')
