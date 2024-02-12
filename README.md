@@ -6,16 +6,20 @@
   </a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About the project**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://cdn.pixabay.com/animation/2023/05/04/20/32/20-32-16-61_512.gif" width = 250px></picture>
 
 
-- 🏭 Currently researching ICS security (Industrial Control Systems) 
-- ⛔ Emhphasis on Bottom-Up, Zero Trust, and 100% Automated Architecture
-- 🐬 I LOVE my [Flipper-Zero](https://flipperzero.one/)
-- 👷 Personal Website: (Coming Soon)
+- 🕵️‍♂️ Automated OSINT program created entirely by: [Me](https://github.com/zacharylongo)
+- ⚙️ Utilizes several API's to create the optimal automated OSINT report.
+- 🐍 Coded in Python
+- ⛔ Not for Distribution without consent
 - I’m currently looking for a Post-Grad job opportunity, this is [my resume!](https://drive.google.com/file/d/1762HYxtvIfHswU2V4IaaS54KnxcxEtd4/view?usp=drive_link)
+
+  
+
+## [Click Here for project contents](https://github.com/zacharylongo/CCC-410/wiki)
 
 
 
