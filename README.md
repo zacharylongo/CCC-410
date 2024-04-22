@@ -1,13 +1,4 @@
-(                                                    
-)\ )                 (  (               )         )  
-(()/(  (   (      (   )\))(   '    )  ( /(      ( /(  
- /(_)) )\  )(    ))\ ((_)()\ )  ( /(  )\()) (   )\()) 
-(_))_|((_)(()\  /((_)_(())()\_)() )(_))(_))/  )\ ((_)\  
-| |_   (_) ((_)(_))  \ \((_)/ /((_)_ | |_  ((_)| |(_) 
-| __|  | || '_|/ -_)  \ \/\/ / / _` ||  _|/ _| | ' \  
-|_|    |_||_|  \___|   \_/\_/  \__,_| \__|\__| |_||_|
-
-                                                      
+![Local Image](images/example-image.png)
 
 
 Welcome to FireWatch , a collection of modules for host enumeration, document analysis/retrival, and more.
