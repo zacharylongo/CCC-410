@@ -2,15 +2,15 @@
 
 ## Table of Contents 🔥
 
-1. [Introduction](#introduction) ✍️
-2. [Installation](#installation) 🔨
-3. [Usage](#usage) 🛠️
-4. [Modules](#modules) ⚙️
-   - [FireWatch Module](#firewatch-module) 🔥
-   - [Intel-Xtinguisher Module](#intel-xtinguisher-module) 🧯
-   - [Shodan Module](#shodan-module) 🚧
-5. [Service Selector](#service-selector) ☝️
-6. [Creator](#creator) 🧑‍🎨
+1. [Introduction](#introduction) 
+2. [Installation](#installation) 
+3. [Usage](#usage) 
+4. [Modules](#modules) 
+   - [FireWatch Module](#firewatch-module) 
+   - [Intel-Xtinguisher Module](#intel-xtinguisher-module) 
+   - [Shodan Module](#shodan-module) 
+5. [Service Selector](#service-selector) 
+6. [Creator](#creator) 
 
 ## Introduction<a name="introduction"></a> ✍️
 
