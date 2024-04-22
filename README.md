@@ -1,25 +1,22 @@
-![Local Image](images/Firewatch.png)
+<img width="900" alt="Firewatch " src="https://github.com/zacharylongo/CCC-410/assets/71234688/0a2fb711-9bfb-4186-9416-cc0cf5e14ff1">
 
+## Table of Contents 🔥
 
-Welcome to FireWatch , a collection of modules for host enumeration, document analysis/retrival, and more.
+1. [Introduction](#introduction) ✍️
+2. [Installation](#installation) 🔨
+3. [Usage](#usage) 🛠️
+4. [Modules](#modules) ⚙️
+   - [FireWatch Module](#firewatch-module) 🔥
+   - [Intel-Xtinguisher Module](#intel-xtinguisher-module) 🧯
+   - [Shodan Module](#shodan-module) 🚧
+5. [Service Selector](#service-selector) ☝️
+6. [Creator](#creator) 🧑‍🎨
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Modules](#modules)
-   - [FireWatch Module](#firewatch-module)
-   - [Intel-Xtinguisher Module](#intel-xtinguisher-module)
-   - [Shodan Module](#shodan-module)
-5. [Service Selector](#service-selector)
-6. [Creator](#creator)
-
-## Introduction<a name="introduction"></a>
+## Introduction<a name="introduction"></a> ✍️
 
 The FireWatch Suite provides a set of tools for conducting various types of analysis on domains and hosts. From domain registration checks to document analysis, this suite offers a comprehensive solution for information gathering.
 
-## Installation<a name="installation"></a>
+## Installation<a name="installation"></a> 🔨
 
 To install the FireWatch Suite, follow these steps:
 
@@ -38,7 +35,7 @@ To install the FireWatch Suite, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Usage<a name="usage"></a>
+## Usage<a name="usage"></a> 🛠️
 
 To use the FireWatch Suite, execute the `Service_selector.py` file and follow the on-screen instructions to select a service. Alternatively, you can run individual modules directly.
 
@@ -46,21 +43,21 @@ To use the FireWatch Suite, execute the `Service_selector.py` file and follow th
 python Service_selector.py
 ```
 
-## Modules<a name="modules"></a>
+## Modules<a name="modules"></a> ⚙️
 
-### FireWatch Module<a name="firewatch-module"></a>
+### FireWatch Module<a name="firewatch-module"></a> 🔥
 
 The FireWatch Module, also known as Firewatch.py, is a tool for host enumeration and data analysis. It provides functionalities such as domain registration checks, domain IP lookup, reverse IP lookup, DNS record retrieval, WHOIS information retrieval, certificate (CERT) information retrieval, domain reputation check, subdomain scanning, and historical WHOIS data retrieval.
 
-### Intel-Xtinguisher Module<a name="intel-xtinguisher-module"></a>
+### Intel-Xtinguisher Module<a name="intel-xtinguisher-module"></a> 🧯
 
 The Intel-Xtinguisher Module, also known as `intelx_scan.py`, focuses on document analysis and enumeration. It provides features for searching and analyzing documents using the intelx.io platform.
 
-### Shodan Module<a name="shodan-module"></a>
+### Shodan Module<a name="shodan-module"></a> 🚧
 
 The Shodan Module, also known as `shodan_scan2.py`, offers a less powerful alternative to the FireWatch Module. It provides functionalities for conducting host enumeration and data analysis using the Shodan platform.
 
-## Service Selector<a name="service-selector"></a>
+## Service Selector<a name="service-selector"></a> ☝️
 
 The `Service_selector.py` file serves as a main menu for accessing different modules within the FireWatch Suite. It allows users to select a service from a list of available options.
 
