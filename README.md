@@ -68,11 +68,13 @@ The FireWatch Module, also known as Firewatch.py, is a tool for host enumeration
 
 ### Intel-Xtinguisher Module<a name="intel-xtinguisher-module"></a> 🧯
 
-The Intel-Xtinguisher Module, also known as `intelx_scan.py`, focuses on document analysis and enumeration. It provides features for searching and analyzing documents using the intelx.io platform.
+The Intel-Xtinguisher Module, also known as `intelx_scan.py`, focuses on document analysis and enumeration. It provides features for searching and analyzing documents using the intelx.io platform. It offers advanced parameters inline with Intelx.io's API documentation.
+
+ * This module also exports results to an easily readable .csv file!
 
 ### Shodan Module<a name="shodan-module"></a> 🚧
 
-The Shodan Module, also known as `shodan_scan2.py`, offers a less powerful alternative to the FireWatch Module. It provides functionalities for conducting host enumeration and data analysis using the Shodan platform.
+The (Unfinished) Shodan Module, also known as `shodan_scan2.py`, offers an (albeit less powerful) alternative to the FireWatch Module. It provides functionalities for conducting host enumeration and data analysis using the Shodan platform as a second source of info.
 
 ## Service Selector<a name="service-selector"></a> ☝️
 
@@ -80,4 +82,4 @@ The `Service_selector.py` file serves as a main menu for accessing different mod
 
 ## Creator<a name="creator"></a>
 
-The FireWatch Suite was created by Zachary Longo.
+The FireWatch Suite was created by Zachary Longo with major help from Github Co-Pilot, and the accompanying API Documentation.
