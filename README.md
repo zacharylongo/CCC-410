@@ -1,4 +1,4 @@
-![Local Image](images/example-image.png)
+![Local Image](images/Firewatch.png)
 
 
 Welcome to FireWatch , a collection of modules for host enumeration, document analysis/retrival, and more.
