@@ -82,4 +82,4 @@ The `Service_selector.py` file serves as a main menu for accessing different mod
 
 ## Creator<a name="creator"></a>
 
-The FireWatch Suite was created by Zachary Longo with major help from Github Co-Pilot, and the accompanying API Documentation.
+The FireWatch Suite was created by Zachary Longo with the help of AI coding assistants and accompanying API Documentation linked in the sources tab contained within this repositories wiki.
