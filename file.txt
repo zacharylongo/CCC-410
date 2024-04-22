@@ -1,0 +1,1238 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+
+	<title>Home - Innovate Vermont</title>
+	
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		 
+	 
+	<link rel="stylesheet" href="https://innovatevt.org/wp-content/themes/innovatevt/style.css" />
+	<link rel="pingback" href="https://innovatevt.org/xmlrpc.php" />
+	
+	<!--[if lt IE 9]>
+	<script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<script type="text/javascript" src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+	
+	
+	<meta name='robots' content='noindex, nofollow' />
+
+<!-- This site is optimized with the Yoast SEO plugin v13.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://innovatevt.org/#website","url":"https://innovatevt.org/","name":"Innovate Vermont","description":"Just another Union Street Media Sites site","potentialAction":{"@type":"SearchAction","target":"https://innovatevt.org/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://innovatevt.org/#webpage","url":"https://innovatevt.org/","inLanguage":"en-US","name":"Home - Innovate Vermont","isPartOf":{"@id":"https://innovatevt.org/#website"},"datePublished":"2012-12-12T20:56:08+00:00","dateModified":"2012-12-20T14:45:54+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel="alternate" type="application/rss+xml" title="Innovate Vermont &raquo; Feed" href="https://innovatevt.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Innovate Vermont &raquo; Comments Feed" href="https://innovatevt.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Innovate Vermont &raquo; Home Comments Feed" href="https://innovatevt.org/home/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/innovatevt.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://innovatevt.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.8.3.min.js?ver=6.4.2" id="jquery-js"></script>
+<script type="text/javascript" src="https://innovatevt.org/wp-content/themes/innovatevt/js/jquery.selectbox-0.2.min.js?ver=6.4.2" id="selectbox-js"></script>
+<script type="text/javascript" src="https://innovatevt.org/wp-content/themes/innovatevt/js/bootstrap.min.js?ver=6.4.2" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://innovatevt.org/wp-content/themes/innovatevt/js/custom-script.js?ver=6.4.2" id="custom-script-js"></script>
+<link rel="https://api.w.org/" href="https://innovatevt.org/wp-json/" /><link rel="alternate" type="application/json" href="https://innovatevt.org/wp-json/wp/v2/pages/108366" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://innovatevt.org/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://innovatevt.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://innovatevt.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finnovatevt.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://innovatevt.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finnovatevt.org%2F&#038;format=xml" />
+<!-- Stream WordPress user activity plugin v3.2.3 -->
+<script src='https://usmblogs.com/?dm=2970ca688169a4e3e62a74f86bd3d2fc&amp;action=load&amp;blogid=425&amp;siteid=1&amp;t=1259097606&amp;back=https%3A%2F%2Finnovatevt.org%2F' type='text/javascript'></script><link rel="Shortcut Icon" type="image/x-icon" href="https://innovatevt.org/wp-content/themes/innovatevt/img/favicon.ico" />	
+</head>
+
+<body class="home page-template-default page page-id-108366">
+	
+	<div id="wrapper">
+		
+		<header id="branding">
+			
+			<div class="container">
+			
+			<h1>
+				<a id="home" href="#home">
+					<img src="https://innovatevt.org/wp-content/themes/innovatevt/img/logo.png" alt="Innovate Vermont" />
+				</a>
+			</h1>
+			
+			<nav class="top">
+				<ul class="tabs">
+					<li class="ecosystem open"><a href="#">About the <strong>Innovation Ecosystem</strong> <i></i></a></li>
+					<li class="find-resources"><a href="#">Find Resources <strong>for Your Project</strong> <i></i></a></li>
+				</ul>
+			</nav>
+			
+			</div>
+			
+		</header> <!-- /#branding -->
+<div id="content-wrapper">
+
+	
+	<section id="ecosystem">
+		
+		<div class="container">
+	
+			<div class="row">
+		
+				<article class="span8">
+			
+					<h3>What is the Innovation Ecosystem?</h3>
+			
+					<p><strong>The Innovation Ecosystem is designed to help individuals and businesses advance entrepreneurial activity and to drive innovation throughout Vermont.</strong> The Ecosystem is composed of a multitude of programs, providers, and services designed to help at all stages of the innovation process. Whether you’re looking for mentoring or prototyping, capital sources or IP services, the Ecosystem is a network of organizations to help provide support resources.
+
+&nbsp;
+
+&nbsp;</p>
+			
+				</article>
+		
+				<aside class="span4">
+			
+					<img width="1244" height="1052" src="https://innovatevt.org/files/2012/12/INNOVATE_VTVertical.jpg" class="attachment-small size-small wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://innovatevt.org/files/2012/12/INNOVATE_VTVertical.jpg 1244w, https://innovatevt.org/files/2012/12/INNOVATE_VTVertical-300x253.jpg 300w, https://innovatevt.org/files/2012/12/INNOVATE_VTVertical-1024x865.jpg 1024w" sizes="(max-width: 1244px) 100vw, 1244px" />			
+				</aside>
+		
+			</div>
+		
+		</div>
+	
+	</section>
+	
+		
+	
+			
+	<section id="content">
+		
+		<div class="container">
+		
+			<div class="row">
+			
+				<article class="span7 post-108366 page type-page status-publish hentry" id="post-108366">
+
+					<div class="entry">
+
+						<p>Welcome to the <strong>Innovate Vermont Help Center</strong>.</p>
+<p>Find resources that work best for your project or business venture here.</p>
+
+					</div>
+
+					
+				</article>
+				
+				<aside class="span5 hidden-phone">
+					<select id="filter" class="span4 pull-right">
+						<option class="instructive" value="">I'm looking for help with &hellip;</option>
+												<option value="resource-108238">Capital</option>
+												<option value="resource-108241">Commercialization &amp; Patents</option>
+												<option value="resource-108235">Expert Business Mentoring</option>
+												<option value="resource-108239">Federal Grant Assistance</option>
+												<option value="resource-108242">Incubator Space</option>
+												<option value="resource-108240">Prototyping</option>
+												<option value="resource-108236">Research</option>
+												<option value="resource-108237">Training Resources</option>
+											</select>
+				</aside>
+				
+				<aside id="filter-mobile" class="visible-phone">
+					
+					<h3>I'm looking for help with:</h3>
+					
+					<ul>
+						<li><a href="#resource-108238">Capital</a></li><li><a href="#resource-108241">Commercialization &amp; Patents</a></li><li><a href="#resource-108235">Expert Business Mentoring</a></li><li><a href="#resource-108239">Federal Grant Assistance</a></li><li><a href="#resource-108242">Incubator Space</a></li><li><a href="#resource-108240">Prototyping</a></li><li><a href="#resource-108236">Research</a></li><li><a href="#resource-108237">Training Resources</a></li>					</ul>
+					
+				</aside>
+			</div>
+	
+		</div> <!-- /.container -->
+	
+	</section> <!-- /.section -->
+		
+		
+	<section id="resources" class="hide">
+		
+		<div class="container">
+			
+			<aside id="resource-descriptions">
+				
+				<article id="resource-108238" class="hide resource"><h3>Capital</h3><p>Capital comes in many different forms, with unique risk profiles and terms. Having professional assistance to not just find capital, but to find the right capital can make a world of difference in reaching the next stage of growth.</p></article><article id="resource-108241" class="hide resource"><h3>Commercialization &amp; Patents</h3><p>Navigating the world of Information Property can be daunting even for seasoned innovators and businesses. These services allow for professional support for IP protection, and for the critical step of moving from modeling and prototyping to licensing and full production runs.</p></article><article id="resource-108235" class="hide resource"><h3>Expert Business Mentoring</h3><p>Early stage businesses often perform better when presented with an outside perspective of their trajectory, plans, and current operations. Having professional support and peer networks populated by those who have been there before can help accelerate innovation and growth, while diminishing market risks. </p></article><article id="resource-108239" class="hide resource"><h3>Federal Grant Assistance</h3><p>Submitting competitive bids on Federal Grants can be time consuming and challenging for employers and innovators. Due to its small size and the challenges associated with competing for large national grants, Vermont is a member of the EPSCoR states, with specialized grant opportunities designed to match the scale of smaller projects.</p></article><article id="resource-108242" class="hide resource"><h3>Incubator Space</h3><p>Sometimes all that an idea requires to flourish is space. Incubators provide low cost physical presence, often coupled with other technical, support, or professional services nearby. They act as a critical step in being able to control the work environment associated with developing new technologies and refining operations.</p></article><article id="resource-108240" class="hide resource"><h3>Prototyping</h3><p>Prototyping can be an initial stumbling block for innovators looking to move a concept from the page to commercial potential. The machines, software, and tools necessary to design and generate precision prototypes are more accessible through collaborative programs</p></article><article id="resource-108236" class="hide resource"><h3>Research</h3><p>In its most basic form, research helps you learn what you don’t yet know, either through empirical evidence, or in understanding what is out there. Research for innovators can mean anything from commercialization and patent searches to learning what type of capital a particular project may need. The entire Innovation Ecosystem is designed to help shorten the research time required to get a project or idea to the next stage in development by utilizing an already existing network of specialists.</p></article><article id="resource-108237" class="hide resource"><h3>Training Resources</h3><p>The State of Vermont offers a number of resources and programs to help businesses find, train, and retrain Vermont employees. This can come in the form of financial support and customization of training programs, or in supporting employee wages during training periods.</p></article>				
+			</aside>
+		
+					
+			<div class="row">
+			
+				<h2 id="resource-title" class="span9">Resources for <span>Innovators</span></h2>
+			
+				<a id="view-all" href="#" class="span3">+ View All Resources</a>
+			
+			</div> <!-- /.row -->
+			
+							
+							
+				<article class="span3 resource-108410 show post-108361 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#agency-of-commerce-and-community-development" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-07-at-2.14.24-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" />						</a>
+						
+						<div id="agency-of-commerce-and-community-development" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Agency of Commerce and Community Development</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Agency of Commerce and Community Development works on a statewide level to coordinate resources to best serve the Vermont employers and employees who form the base of our local economy.</p>
+								<div class="links">
+									<a href="http://accd.vermont.gov/">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108241 resource-108410 resource-108239 resource-108236 resource-108237 show post-108488 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#university-of-vermont" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2013/01/UVM_logo-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" />						</a>
+						
+						<div id="university-of-vermont" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>University of Vermont</h4>
+							</div>
+							<div class="modal-body">
+								<p>As the state&#8217;s research university, the University of Vermont (UVM) is key to innovation and business development success in the Green Mountain State. Hosting a world-class medical center and serving nearly 12,000 undergraduate, graduate, and professional students from more than 50 countries, UVM brings in over $120 million each year to support cutting-edge research programs across disciplines, from health to the environment. The campus also maintains a diversity of technical facilities and services, including medical diagnostics, environmental testing, materials fabrication, GIS services, and more. Emerging workforce education programs and high-value professional development courses at UVM are available both on campus and online.</p>
+<p><span style="color: #000000"> </span></p>
+								<div class="links">
+									<a href="http://www.uvm.edu/~bep/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/UniversityofVermont" class="social facebook">Facebook</a>																				<a href="https://twitter.com/uvmvermont" class="social twitter">Twitter</a>										<a href="https://www.youtube.com/user/universityofvermont" class="social youtube">YouTube</a>									</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108410 resource-108236 resource-108237 show post-108356 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-technology-council" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2012/12/Screen-Shot-2015-07-07-at-2.53.14-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2012/12/Screen-Shot-2015-07-07-at-2.53.14-PM-268x200.png 268w, https://innovatevt.org/files/2012/12/Screen-Shot-2015-07-07-at-2.53.14-PM-300x225.png 300w, https://innovatevt.org/files/2012/12/Screen-Shot-2015-07-07-at-2.53.14-PM.png 400w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="vermont-technology-council" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Technology Council</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Technology Council is a statewide entity that aims to advance science and technology-based economic development. The Council is also charged with creating the State’s Science and Technology plan, designed to recognize strengths within Vermont’s S&amp;T economy, and to create strategies that utilize these strengths to advance ideas and knowledge into products and services. The Technology Council also runs a comprehensive internship program designed to connect employers with employees in the STEM fields.</p>
+								<div class="links">
+									<a href="http://www.vttechcouncil.org/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>																				<a href="https://www.linkedin.com/grp/home?gid=4250946" class="social linkedin">LinkedIn</a>																													</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108235 resource-108410 resource-108242 resource-108237 show post-108348 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-center-for-emerging-technologies" data-toggle="modal">
+							<img width="196" height="146" src="https://innovatevt.org/files/2012/12/vcet.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="vermont-center-for-emerging-technologies" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Center for Emerging Technologies</h4>
+							</div>
+							<div class="modal-body">
+								<p>With a mindset for collaboration, partnerships and shared resources among the region’s business, higher education, and economic development organizations, the Vermont Center for Emerging Technologies (VCET) provides entrepreneurs an unequaled ecosystem and networked infrastructure of people, resources, and capital surrounding new venture creation and growing successful firms in Vermont. VCET is a leading-edge technology business incubator serving all of Vermont. Simply put and relentlessly pursued, our mission is to assist entrepreneurs create next generation jobs for this generation of Vermonters.</p>
+								<div class="links">
+									<a href="http://www.vermonttechnologies.com/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>																				<a href="http://www.linkedin.com/groups/Vermont-Center-Emerging-Technologies-VCET-3155806/about" class="social linkedin">LinkedIn</a>										<a href="https://twitter.com/VCET" class="social twitter">Twitter</a>																			</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108238 hide post-108693 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-center-for-emerging-technologies-vermont-seed-capital" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-24-at-1.40.53-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="vermont-center-for-emerging-technologies-vermont-seed-capital" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Center for Emerging Technologies &#8211; Vermont Seed Capital Fund</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Seed Capital Fund, which is professionally managed by VCET, is a venture capital fund whose objective is to invest in up-and-coming companies based out of Vermont that show high potential for growth, financial return commensurate with risk, and public benefit for Vermonters. After meeting the eligibility requirements, investment transactions can range from $25,000 to $250,000.</p>
+								<div class="links">
+									<a href="http://vermonttechnologies.com/?p=666">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108236 hide post-108613 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#castleton-polling-institute" data-toggle="modal">
+							<img width="250" height="200" src="https://innovatevt.org/files/2013/05/Castleton-Polling-250x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="castleton-polling-institute" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Castleton Polling Institute</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Castleton Polling Institute was created to provide professional, authoritative public opinion research on custom data queries. Along with providing services tailored to gather and analyze data, the CPI also helps with designing and testing questionnaires, developing focus groups, customer satisfaction surveys, and more.</p>
+								<div class="links">
+									<a href="http://www.castleton.edu/polling/index.htm">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>																														<a href="https://twitter.com/VTPollingInst" class="social twitter">Twitter</a>																			</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108236 hide post-108538 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#efficiency-vermont" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2013/01/efficiency-vermont-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="efficiency-vermont" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Efficiency Vermont</h4>
+							</div>
+							<div class="modal-body">
+								<p>Efficiency Vermont offers many rebates and incentives to help Vermonters make energy efficiency improvements to their homes and businesses. Reducing the amount of energy you use can help you reduce your impact on the environment and save money on your energy bills. They offer a number of programs to help your small business become more energy efficient.</p>
+								<div class="links">
+									<a href="http://www.efficiencyvermont.com/Index.aspx">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/efficiencyvermont1" class="social facebook">Facebook</a>																				<a href="https://twitter.com/EfficiencyVT" class="social twitter">Twitter</a>										<a href="https://www.youtube.com/user/EfficiencyVermont" class="social youtube">YouTube</a>									</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108410 resource-108239 resource-108236 show post-108352 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#experimental-program-to-stimulate-competitive-research-epscor" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2013/05/EPSCoR-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="experimental-program-to-stimulate-competitive-research-epscor" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Experimental Program to Stimulate Competitive Research (EPSCoR)</h4>
+							</div>
+							<div class="modal-body">
+								<p>EPSCoR, the Experimental Program to Stimulate Competitive Research, acts as a way for the National Science Foundation (NSF) to promote scientific research and progress in areas of the country with limited capacity to compete for national R&amp;D grants. By providing grant support for federal grant opportunities (such as SBIR/STTR), the research and development infrastructure in our state is strengthened, and allows for greater competitiveness on other national grant opportunities.</p>
+								<div class="links">
+									<a href="http://www.uvm.edu/~epscor/new02/">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108238 hide post-108533 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#fresh-tracks-capital" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2013/01/fresh-tracks-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="fresh-tracks-capital" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Fresh Tracks Capital</h4>
+							</div>
+							<div class="modal-body">
+								<p>Based in Shelburne VT, FreshTracks Capital L.P. manages $25 million in venture capital that is invested with a core focus on Vermont. FreshTracks pursues investing opportunities in high-growth, private companies in the underserved capital markets of Vermont and the adjacent counties of New York, Massachusetts and New Hampshire. FreshTracks&#8217; investment criteria focuses on the following four primary attributes:</p>
+<ul>
+<li>Quality of the management team</li>
+<li>Attractiveness of the market opportunity</li>
+<li>Innovativeness of the product or service</li>
+<li>Strength of the business model</li>
+</ul>
+<p>We favor technology-driven businesses because of their potential for creating defensible competitive advantages, and seek out proven, high-performing management teams to lead these companies.</p>
+								<div class="links">
+									<a href="http://www.freshtrackscap.com/home/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/groups/49253882148/" class="social facebook">Facebook</a>										<a href="https://www.linkedin.com/company/freshtracks-capital?trk=top_nav_home" class="social linkedin">LinkedIn</a>										<a href="https://twitter.com/FreshTracksCap" class="social twitter">Twitter</a>																			</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108241 resource-108236 hide post-108573 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#innovation-engineering" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2013/02/Screen-Shot-2015-07-07-at-3.04.05-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2013/02/Screen-Shot-2015-07-07-at-3.04.05-PM-268x200.png 268w, https://innovatevt.org/files/2013/02/Screen-Shot-2015-07-07-at-3.04.05-PM-300x225.png 300w, https://innovatevt.org/files/2013/02/Screen-Shot-2015-07-07-at-3.04.05-PM.png 420w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="innovation-engineering" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Innovation Engineering</h4>
+							</div>
+							<div class="modal-body">
+								<p>Innovation Engineering is a proven system that transforms innovation from a random art into a reliable, scientific &#8220;system&#8221; for profitable growth. It creates a culture of never ending innovation within organizations that delivers increased innovation speed (up to 6x) and decreased risk (30 &#8211; 80%). The Vermont Manufacturing Extension Center (VMEC) has been an early national Innovation Engineering pioneer since 2006, and is a licensed member of the Innovation Engineering Network.</p>
+								<div class="links">
+									<a href="http://www.vmec.org/services/profitable-growth-and-innovation-services">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/InnovationEngineering" class="social facebook">Facebook</a>																				<a href="https://twitter.com/Innov8Engineer" class="social twitter">Twitter</a>										<a href="https://www.youtube.com/channel/UC-Oc7MTmo_kVYaG0HFEjlNg" class="social youtube">YouTube</a>									</div>
+								</div>
+								<div class="video"><object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/HyW7VT_92_A?hl=en_US&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/HyW7VT_92_A?hl=en_US&version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>							</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108240 hide post-108350 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#instrumentation-and-model-facility-imf" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2012/12/imf-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2012/12/imf-268x200.jpg 268w, https://innovatevt.org/files/2012/12/imf.jpg 300w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="instrumentation-and-model-facility-imf" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Instrumentation and Model Facility (IMF)</h4>
+							</div>
+							<div class="modal-body">
+								<p>Housed at the University of Vermont, the Instrumentation and Model Facility (IMF) provides prototyping, modeling, and precision part services to advance research and commercialization. The IMF has worked with innovators and entrepreneurs in hospitals, private business, and higher education for over 40 years. The IMF can now perform prototyping and limited run production services even faster with the addition of a new Polyjet 3D printing system.</p>
+								<div class="links">
+									<a href="http://its.uvm.edu/IMF/">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108238 hide post-108626 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#north-country-angels" data-toggle="modal">
+							<img width="250" height="200" src="https://innovatevt.org/files/2014/02/North-Country-Angels-250x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="north-country-angels" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>North Country Angels</h4>
+							</div>
+							<div class="modal-body">
+								<p>North Country Angels (NCA) brings together over 40 successful and experienced entrepreneurs who are active in making early-stage and seed investments in companies located in the northeastern United States. Every month we gather informally to discuss recent news from the investment community, share due diligence activities, build strategic relationships, and review business plans from prospective companies.</p>
+								<div class="links">
+									<a href="http://northcountryangels.com/index.shtml">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>																				<a href="https://www.linkedin.com/groups?home=&gid=7491036&trk=anet_ug_hm" class="social linkedin">LinkedIn</a>										<a href="https://twitter.com/NCountryAngels" class="social twitter">Twitter</a>																			</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108239 hide post-108355 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#procurement-technical-assistance-center-vt-ptac" data-toggle="modal">
+							<img width="215" height="160" src="https://innovatevt.org/files/2012/12/aptac.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="procurement-technical-assistance-center-vt-ptac" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Procurement Technical Assistance Center (VT PTAC)</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Procurement and Technical Assistance Center (PTAC) operates out of the Vermont Agency of Commerce and Community Development. PTAC was created to help Vermont employers obtain government contracts at local, state, and federal levels. The PTAC team utilizes significant technical assistance expertise to provide knowledge resources and support to employers looking to win government contracts.</p>
+								<div class="links">
+									<a href="http://accd.vermont.gov/business/start/vtptac">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108410 resource-108236 show post-108354 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#regional-development-corporations" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-07-at-2.17.43-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="regional-development-corporations" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Regional Development Corporations</h4>
+							</div>
+							<div class="modal-body">
+								<p>The State of Vermont’s 14 counties are split into 12 regional land-use and economic development areas. Each of these geographic areas is served by a Regional Economic Development Corporation (RDC). The RDCs of Vermont work with the high wage, value-adding employers throughout our State to help retain these jobs, grow employment, solve space needs, and support this critical economic infrastructure for Vermont and for Vermonters.</p>
+								<div class="links">
+									<a href="http://accd.vermont.gov/business/partners/rdc">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108235 resource-108410 resource-108236 resource-108237 show post-108362 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#small-business-development-center-sbdc" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2012/12/vtsbdc-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2012/12/vtsbdc-268x200.jpg 268w, https://innovatevt.org/files/2012/12/vtsbdc.jpg 271w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="small-business-development-center-sbdc" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Small Business Development Center (SBDC)</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Small Business Development Center (SBDC) operates throughout the State as an advisor and low-cost training partner for small businesses. SBDC advisors work directly with small employers and entrepreneurs to help navigate the complex world of growing a successful operation at every step of the process.</p>
+								<div class="links">
+									<a href="http://www.vtsbdc.org/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/vtsbdc" class="social facebook">Facebook</a>										<a href="https://www.linkedin.com/company/procurement-technical-assistance-center?trk=top_nav_home" class="social linkedin">LinkedIn</a>																													</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource- hide post-108687 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#the-karma-bird-house" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-13-at-10.12.18-AM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="the-karma-bird-house" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>The Karma Bird House</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Karma Bird House is a space for small business entrepreneurs and creatives to land, work, gather, network, and launch new ideas. Their building, located near Burlington&#8217;s waterfront, has small to mid-size private offices and an open common area that are available by rent.</p>
+								<div class="links">
+									<a href="http://thekarmabirdhouse.com/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/pages/The-Karma-Bird-House/346989185404381?fref=ts" class="social facebook">Facebook</a>																																							</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108241 resource-108410 resource-108236 show post-108349 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#technology-commercialization-resources" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2013/01/office-of-tech-comm-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="technology-commercialization-resources" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>UVM Technology Commercialization Resources</h4>
+							</div>
+							<div class="modal-body">
+								<p>Transitioning from a concept to a commercialized product is the difference between a marketable idea and making the first sale. But the process of commercialization can be a daunting gauntlet if you don’t know where to turn first. Legal, professional, technical, and academic support services all combine to help transition intellectual property into marketing, licenses, sales, and revenue.</p>
+								<div class="links">
+									<a href="http://www.uvm.edu/~techtran/">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108238 hide post-108653 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#accd-2" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-07-at-2.08.52-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="accd-2" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Agency of Commerce &amp; Community Development &#8211; Finding Capital</h4>
+							</div>
+							<div class="modal-body">
+								<p>Vermont has a variety of sources that seek to fit various capital niches along the business growth continuum. The Department of Economic Development (DED), which lies within the Agency of Commerce &amp; Community Development (ACCD), has compiled a list of links to financing sources such as investment opportunities, micro lenders, and local businesses that will assist you in the search for start-up capital, to ensure that every budding business obtains the right capital to reach their full potential in the Green Mountain State.</p>
+								<div class="links">
+									<a href="http://accd.vermont.gov/business/start/financing">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108236 hide post-108662 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-agency-of-commerce-community-development-start-a-business" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-02-at-2.34.01-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="vermont-agency-of-commerce-community-development-start-a-business" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Agency of Commerce &amp; Community Development &#8211; Start a Business</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Department of Economic Development (DED), which is a part of the ACCD, has compiled a list of all necessary steps and procedures, along with links for each, that an aspiring entrepreneur needs in order to get his or her business rolling. This includes, but is not limited to: workforce recruitment, permits and regulations, taxes, telecommunications, and available commercial real estate in which to locate or grow your business.</p>
+								<div class="links">
+									<a href="http://accd.vermont.gov/business/start">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108236 hide post-108664 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-department-of-labor-economic-labor-market-information" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-02-at-2.36.36-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="vermont-department-of-labor-economic-labor-market-information" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Department of Labor &#8211; Economic &amp; Labor Market Information</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Department of Labor provides excellent resources for employers to learn more about their local, regional, and state economy. This ranges from current unemployment figures and demographic information, to long-term occupational projections. The VT DOL provides the most up-to-date information on the economic conditions of the state.</p>
+								<div class="links">
+									<a href="http://www.vtlmi.info/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>																																								<a href="https://www.youtube.com/channel/UC3xfOJK7mGnFhKPf1kOZjsg" class="social youtube">YouTube</a>									</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108236 resource-108237 hide post-108668 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-department-of-labor-workforce-development" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-06-at-9.53.45-AM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="vermont-department-of-labor-workforce-development" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Department of Labor &#8211; Workforce Development</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Department of Labor &#8220;Vermont Job Link&#8221; provides job seeking and recruitment opportunities for both employers looking to fill in positions at their company, as well as for individuals seeking to be that key asset a business needs to succeed in the Green Mountain State.</p>
+<p>For employers with more specific or larger hiring and training needs, the VT DOL provides custom and personalized job-recruitment and job-training services to match the needs of employers with Vermonters.</p>
+								<div class="links">
+									<a href="http://labor.vermont.gov/workforce-development/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>																																								<a href="https://www.youtube.com/channel/UC3xfOJK7mGnFhKPf1kOZjsg" class="social youtube">YouTube</a>									</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108238 resource-108410 show post-108358 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-economic-development-authority-veda" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2012/12/veda-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2012/12/veda-268x200.jpg 268w, https://innovatevt.org/files/2012/12/veda-300x223.jpg 300w, https://innovatevt.org/files/2012/12/veda-1024x764.jpg 1024w, https://innovatevt.org/files/2012/12/veda.jpg 1206w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="vermont-economic-development-authority-veda" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Economic Development Authority (VEDA)</h4>
+							</div>
+							<div class="modal-body">
+								<p>Providing a variety of low-cost financing options to Vermont businesses since 1974, the Vermont Economic Development Authority (VEDA) was created by the General Assembly to be the state’s economic development finance lender. VEDA offers a variety of low-cost loan programs designed to meet the specific needs of employers.</p>
+								<div class="links">
+									<a href="http://www.veda.org/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/pages/Vermont-Economic-Development-Authority/936442733032547?fref=ts" class="social facebook">Facebook</a>																																							</div>
+								</div>
+								<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/rYcq9gvrRj0" frameborder="0" allowfullscreen></iframe></div>							</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108238 resource-108236 hide post-108555 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-employee-ownership-center-veoc" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2013/01/Screen-Shot-2015-07-07-at-3.20.41-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2013/01/Screen-Shot-2015-07-07-at-3.20.41-PM-268x200.png 268w, https://innovatevt.org/files/2013/01/Screen-Shot-2015-07-07-at-3.20.41-PM-300x225.png 300w, https://innovatevt.org/files/2013/01/Screen-Shot-2015-07-07-at-3.20.41-PM.png 444w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="vermont-employee-ownership-center-veoc" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Employee Ownership Center VEOC</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Employee Ownership Center is a statewide non-profit whose mission is to promote and foster employee ownership in order to broaden capital ownership, deepen employee participation, retain jobs, increase living standards for working families, and stabilize communities. We provide information and resources to owners interested in selling their business to their employees, employee groups interested in purchasing a business, and entrepreneurs who wish to start up a company with broadly shared ownership.</p>
+								<div class="links">
+									<a href="http://www.veoc.org/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/vermonteoc?fref=ts" class="social facebook">Facebook</a>										<a href="https://www.linkedin.com/company/vermont-employee-ownership-center?trk=top_nav_home" class="social linkedin">LinkedIn</a>										<a href="https://twitter.com/veoc_vt" class="social twitter">Twitter</a>										<a href="https://www.youtube.com/channel/UC8U6gf76D7lpbeWh_j5rnLQ" class="social youtube">YouTube</a>									</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108240 hide post-108351 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-fablab" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2012/12/fablab-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2012/12/fablab-268x200.jpg 268w, https://innovatevt.org/files/2012/12/fablab-300x224.jpg 300w, https://innovatevt.org/files/2012/12/fablab.jpg 450w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="vermont-fablab" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont FabLab</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont FabLab is aimed to provide rapid-prototyping tools and services to Vermont Innovators within an environment of collaborative thinking. Operating out of the UVM school of Engineering and Mathematical sciences, the FabLab model has proven to be an entrepreneurial catalyst with the Fablab Consortia out of MIT, providing CAD/CAM software, 3D scanning, 3D printing, test tools for electrical assembly, and more.</p>
+								<div class="links">
+									<a href="http://www.uvm.edu/~cems/?Page=research/vermont_fablab.php">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108235 resource-108410 resource-108237 show post-108353 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-manufacturing-extension-center-vmec" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2012/12/vmec-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2012/12/vmec-268x200.jpg 268w, https://innovatevt.org/files/2012/12/vmec-300x224.jpg 300w, https://innovatevt.org/files/2012/12/vmec.jpg 401w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="vermont-manufacturing-extension-center-vmec" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Manufacturing Extension Center (VMEC)</h4>
+							</div>
+							<div class="modal-body">
+								<p>Operating statewide as a not-for-profit since 1995, VMEC provides confidential consulting, coaching, hands-on implementation assistance and training on a reasonable fee-for-service basis to help manufacturers grow through innovation, increase productivity, improve their manufacturing and business systems and processes, and improve competitiveness. VMEC also works with selected clients in the healthcare, higher education, government and financial services industries.</p>
+								<div class="links">
+									<a href="http://www.vmec.org/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/pages/Vermont-Manufacturing-Extension-Center/256352941072070" class="social facebook">Facebook</a>																																							</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108410 show post-108357 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-colleges-university" data-toggle="modal">
+							<img width="226" height="168" src="https://innovatevt.org/files/2012/12/vsc.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="vermont-colleges-university" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont State Colleges</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont State College system works to provide high-quality, affordable education throughout the State. Per capita, Vermont has more institutions of Higher Education per capita than any other state; they are available to meet the unique needs of employers, as well as current and future employees. Harnessing the strength of this network and resources is critical to further developing our robust Innovation Ecosystem.</p>
+								<div class="links">
+									<a href="http://www.vsc.edu/Pages/default.aspx">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>																														<a href="https://twitter.com/VSC_edu" class="social twitter">Twitter</a>																			</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108238 resource-108235 resource-108239 resource-108236 hide post-108360 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-sustainable-jobs-fund-vsjf" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2012/12/sustainable-jobs-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2012/12/sustainable-jobs-268x200.jpg 268w, https://innovatevt.org/files/2012/12/sustainable-jobs-300x224.jpg 300w, https://innovatevt.org/files/2012/12/sustainable-jobs.jpg 490w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="vermont-sustainable-jobs-fund-vsjf" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Sustainable Jobs Fund (VSJF)</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Sustainable Jobs Fund (VSJF) was created to help move Vermont’s green economy forward, and currently provides grant funding, loans, and technical assistance to Vermonters working in a wide variety of green economic sectors. The VSJF runs a Flexible Capital Fund that provides near-equity funding for mostly rural operations, and provides a network of peer-to-peer collaborative to help with sustainable growth of Vermont businesses.</p>
+								<div class="links">
+									<a href="http://www.vsjf.org/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/VermontSustainableJobsFund?fref=ts" class="social facebook">Facebook</a>																				<a href="https://twitter.com/VTBioenergy" class="social twitter">Twitter</a>										<a href="https://www.youtube.com/user/VermontBioenergy" class="social youtube">YouTube</a>									</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108237 hide post-108661 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-technical-college-continuing-ed-workforce-development" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-02-at-11.20.47-AM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-02-at-11.20.47-AM-268x200.png 268w, https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-02-at-11.20.47-AM-300x224.png 300w, https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-02-at-11.20.47-AM.png 488w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="vermont-technical-college-continuing-ed-workforce-development" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Technical College &#8211; Continuing Ed. &amp; Workforce Development</h4>
+							</div>
+							<div class="modal-body">
+								<p>With a focused, hands-on, and applied learning approach to education, taught by faculty who are experts in their field, Vermont Tech offers a unique learning experience to a variety of businesses and employees looking to expand their workforce skills. The Office of Continuing Education &amp; Workforce Development (CEWD) at Vermont Tech provides degree and non-degree programs, workforce education management services, customized training and workforce development in leadership and technical areas, as well as teacher training; all of which can be tailored to meet the individual needs or goals of your company and its employees.</p>
+								<div class="links">
+									<a href="http://www.vtc.edu/academics/continuing-education-workforce-development">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108235 hide post-108609 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-technical-college" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2013/05/Screen-Shot-2015-07-07-at-2.37.28-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2013/05/Screen-Shot-2015-07-07-at-2.37.28-PM-268x200.png 268w, https://innovatevt.org/files/2013/05/Screen-Shot-2015-07-07-at-2.37.28-PM-300x225.png 300w, https://innovatevt.org/files/2013/05/Screen-Shot-2015-07-07-at-2.37.28-PM.png 400w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="vermont-technical-college" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Technical College &#8211; Enterprise Center</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Technical College&#8217;s Enterprise Center is designed to provide the services necessary to allow small businesses to grow. Offering T-1 lines, video conferencing, and more, the Enterprise Center partners with the Small Business Development Center and the private market to meet the needs of their clients.</p>
+								<div class="links">
+									<a href="https://vtsbdc.centerdynamics.com/center.aspx?center=11010&subloc=11">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+								<div class="video"><script type='text/javascript' src="https://WCAX.images.worldnow.com/interface/js/WNVideo.js?rnd=445390;hostDomain=www.wcax.com;playerWidth=630;playerHeight=355;isShowIcon=true;clipId=8134711;flvUri=;partnerclipid=;adTag=News;advertisingZone=;enableAds=true;landingPage=;islandingPageoverride=false;playerType=STANDARD_EMBEDDEDscript;controlsType=overlay"></script><a href="http://www.wcax.com" title="WCAX.COM Local Vermont News, Weather and Sports-">WCAX.COM Local Vermont News, Weather and Sports-</a></div>							</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108410 resource-108236 show post-108359 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-technology-alliance-vtta" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2012/12/vtta-268x200.jpg" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2012/12/vtta-268x200.jpg 268w, https://innovatevt.org/files/2012/12/vtta.jpg 288w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="vermont-technology-alliance-vtta" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Technology Alliance (vtTA)</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Technology Alliance (vtTA) is a group of entrepreneurially minded individuals and organizations who work to create a thriving technology ecosystem in Vermont. The vtTA has been active in sponsoring and promoting the Vermont Tech Jam, as well as providing a peer network and informational meetings for members.</p>
+								<div class="links">
+									<a href="http://www.vermonttechnologyalliance.org/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/VermontTechnologyAlliance" class="social facebook">Facebook</a>										<a href="https://www.linkedin.com/groups?gid=74812&mostPopular=&trk=tyah&trkInfo=clickedVertical%3Agroup%2Cidx%3A1-1-1%2CtarId%3A1436298551588%2Ctas%3Avermont%20tech" class="social linkedin">LinkedIn</a>										<a href="https://twitter.com/vtTechAlliance" class="social twitter">Twitter</a>																			</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108238 resource-108236 hide post-108699 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#vermont-venture-network" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/08/Screen-Shot-2015-08-03-at-12.37.44-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2015/08/Screen-Shot-2015-08-03-at-12.37.44-PM-268x200.png 268w, https://innovatevt.org/files/2015/08/Screen-Shot-2015-08-03-at-12.37.44-PM-300x224.png 300w, https://innovatevt.org/files/2015/08/Screen-Shot-2015-08-03-at-12.37.44-PM.png 750w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="vermont-venture-network" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Vermont Venture Network</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Vermont Venture Network (VVN) is a forum that was created in 1989 with a sole purpose of enhancing the interaction and exchange of ideas among Vermont’s entrepreneurs. Until January 2015, the VVN hosted monthly meetings featuring speakers from Vermont&#8217;s business community and finance sources; however, those meetings have been put on hold due to a great number of other similar gatherings in the state. In order to adapt to these changes, the VVN now has a comprehensive calendar of said gatherings/meetings which is easily accessible through their website.</p>
+								<div class="links">
+									<a href="http://www.vermontventurenetwork.org/?view=calendar&month=August-2015">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>																				<a href="https://www.linkedin.com/groups?gid=2013802&mostPopular=&trk=tyah&trkInfo=clickedVertical%3Agroup%2CclickedEntityId%3A2013802%2Cidx%3A2-1-6%2CtarId%3A1438626141872%2Ctas%3Avermont%20ven" class="social linkedin">LinkedIn</a>																													</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108242 resource-108240 hide post-108689 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#burlington-generator" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-13-at-11.04.42-AM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-13-at-11.04.42-AM-268x200.png 268w, https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-13-at-11.04.42-AM-300x225.png 300w, https://innovatevt.org/files/2015/07/Screen-Shot-2015-07-13-at-11.04.42-AM.png 600w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="burlington-generator" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Burlington Generator</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Generator is a combination of artist studios, a classroom, and a business incubator with goals of fostering creative ideas, innovation, and entrepreneurship. They offer tools and resources such as prototyping, metal work, wood work, microelectronics, and design stations for their members.</p>
+								<div class="links">
+									<a href="https://generatorvt.com/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/GeneratorVT" class="social facebook">Facebook</a>																				<a href="https://twitter.com/generatorvt" class="social twitter">Twitter</a>																			</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108235 resource-108237 hide post-108701 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#champlain-college-trued-alliances" data-toggle="modal">
+							<img width="268" height="200" src="https://innovatevt.org/files/2015/08/Screen-Shot-2015-08-04-at-1.22.54-PM-268x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://innovatevt.org/files/2015/08/Screen-Shot-2015-08-04-at-1.22.54-PM-268x200.png 268w, https://innovatevt.org/files/2015/08/Screen-Shot-2015-08-04-at-1.22.54-PM-300x225.png 300w, https://innovatevt.org/files/2015/08/Screen-Shot-2015-08-04-at-1.22.54-PM.png 700w" sizes="(max-width: 268px) 100vw, 268px" />						</a>
+						
+						<div id="champlain-college-trued-alliances" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>Champlain College- truED Alliances</h4>
+							</div>
+							<div class="modal-body">
+								<p>The Champlain College truEd Alliances program gives member organizations&#8217; employees access to their online degree programs for 70 percent less than the standard tuition. Champlain will work with your organization to match job competencies with the appropriate online degree or certificate program so that your workforce is better prepared to meet the demands of today&#8217;s and tomorrow&#8217;s challenges.</p>
+								<div class="links">
+									<a href="http://www.champlain.edu/trued">View Website &raquo;</a>									<div class="social">
+																																																											</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+							
+							
+				<article class="span3 resource-108241 resource-108235 resource-108242 hide post-108606 partner type-partner status-publish has-post-thumbnail hentry">
+
+					<div class="border">
+
+						<a href="#iwow-incubator-without-walls" data-toggle="modal">
+							<img width="250" height="200" src="https://innovatevt.org/files/2013/05/iWOW-250x200.png" class="attachment-partner size-partner wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+						
+						<div id="iwow-incubator-without-walls" class="modal hide">
+							
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4>iWOW Incubator Without Walls</h4>
+							</div>
+							<div class="modal-body">
+								<p>IWoW: Incubator Without Walls is an alliance and partnership between multiple service providers to increase the availability and quality of work-skills throughout the Northeast Kingdom. Though based out of Lyndon State College, IWoW doesn&#8217;t rely on a single location, rather, focuses on developing a network of resources to meet the needs of small business owners.</p>
+								<div class="links">
+									<a href="http://lyndonstate.edu/academics/center-for-rural-entrepreneurship/incubator-without-walls/">View Website &raquo;</a>									<div class="social">
+										<span>Connect:</span>										<a href="https://www.facebook.com/iwowteam" class="social facebook">Facebook</a>																																							</div>
+								</div>
+															</div>
+							
+						</div>
+
+					</div>
+
+				</article>
+			
+						
+			</div>
+			
+		</section>
+	
+	
+
+</div>
+		
+
+	<div id="push"></div>
+	
+</div> <!-- /#wrapper -->	
+	
+<footer id="base">
+	
+	<div class="container">
+		
+		<nav class="footer">
+			<div class="menu-footer-logos-container"><ul id="menu-footer-logos" class="menu"><li id="menu-item-108369" class="vermont menu-item menu-item-type-custom menu-item-object-custom menu-item-108369"><a href="http://accd.vermont.gov/">State of Vermont</a></li>
+<li id="menu-item-108370" class="technology menu-item menu-item-type-custom menu-item-object-custom menu-item-108370"><a href="http://www.vttechcouncil.org/">Vermont Technology Council</a></li>
+<li id="menu-item-108371" class="gbic menu-item menu-item-type-custom menu-item-object-custom menu-item-108371"><a href="http://www.gbicvt.org/">Greater Burlington Industrial Corporation</a></li>
+<li id="menu-item-108368" class="uvm menu-item menu-item-type-custom menu-item-object-custom menu-item-108368"><a href="http://uvm.edu">University of Vermont</a></li>
+</ul></div>		</nav>
+		
+		<div id="siteby" style="color: #fff;float:right">
+Site by <a target="_blank" style="color: #fff;" href="https://scoutdigital.com/">Scout Digital</a>
+</div><script type="text/javascript" src="https://innovatevt.org/wp-includes/js/comment-reply.min.js?ver=6.4.2" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/innovatevt.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://innovatevt.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1" id="contact-form-7-js"></script>
+		
+	</div> <!-- /.container -->
+	
+</footer> <!-- /#base -->
+
+</body>
+</html>
