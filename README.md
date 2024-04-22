@@ -14,7 +14,21 @@
 
 ## Introduction<a name="introduction"></a> ✍️
 
-The FireWatch Suite provides a set of tools for conducting various types of analysis on domains and hosts. From domain registration checks to document analysis, this suite offers a comprehensive solution for information gathering.
+The FireWatch Suite provides a set of simple API tools for conducting various types of OSINT analysis on domains and hosts. From domain registration checks to document identification, this suite offers a near comprehensive solution for information gathering.
+
+The suite relies on Several API's:
+
+💲 = Partial Functionality without paid subscription
+
+⚠️ = Free, but limited tokens without paid subscription
+
+👍 = 100% Free To use 
+
+* Intelx.io 💲⚠️
+* HackerTarget.io 💲⚠️
+* Shodan.io 💲⚠️
+* WhoIsXML.io ⚠️
+* WhoIsFreaks 👍
 
 ## Installation<a name="installation"></a> 🔨
 
@@ -34,10 +48,13 @@ To install the FireWatch Suite, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
+4. Configure API Keys
+   * Firewatch.py is 100% functional without any paid subscriptions. However, you **MUST** register for a WhoisXML **AND** WhoIsFreaks account for full functionality.
+   * These keys can simply be pasted into ``` config.json ``` with no further configuration required. 
 
 ## Usage<a name="usage"></a> 🛠️
 
-To use the FireWatch Suite, execute the `Service_selector.py` file and follow the on-screen instructions to select a service. Alternatively, you can run individual modules directly.
+To best utilize the FireWatch Suite, execute the `Service_selector.py` file and follow the on-screen instructions to select a service. Alternatively, you can run individual modules directly if that's what you desire.
 
 ```bash
 python Service_selector.py
