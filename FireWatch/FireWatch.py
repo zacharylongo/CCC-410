@@ -560,8 +560,6 @@ def main():
     while True:
         run_again()
 
-if __name__ == '__main__':
-    main()
 
 if __name__ == '__main__':
     main()
