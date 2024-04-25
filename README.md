@@ -50,7 +50,7 @@ To install the FireWatch Suite, follow these steps:
    ```
 4. Configure API Keys
    * Firewatch.py is 100% functional without any paid subscriptions. However, you **MUST** register for a WhoisXML **AND** WhoIsFreaks account for full functionality.
-   * These keys can simply be pasted into ``` config.json ``` with no further configuration required. 
+   * These keys will be requested when you first boot up FireWatch. Alternatively, you can simply paste them into config.json **(Not to be confused with default_config.json)**
 
 ## Usage<a name="usage"></a> 🛠️
 
