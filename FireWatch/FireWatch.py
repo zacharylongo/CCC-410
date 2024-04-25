@@ -67,7 +67,7 @@ print("""\033[0;31m
                                                       
 \033[0m\033[0;33m 
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    Adapted and Repackaged by Zachary Longo
+    Improved and Repackaged by Zachary Longo
     https://github.com/zacharylongo
     
     Original Skeleton derived from: CentralIntelAgency
@@ -78,17 +78,17 @@ print("""\033[0;31m
 
 time.sleep(3)
 
-# Steps Taken
-# 🔥 Welcome to FireWatch 🔥
-print("🔥 [1] Domain Registration 🔥"
-      "\n🔥 [2] Domain IP and Data 🔥"
-      "\n🔥 [3] IP Search (Extract Domains with Same IP) 🔥"
-      "\n🔥 [4]FDNS Records 🔥"
-      "\n🔥 [5] Whois Domain Information 🔥"
-      "\n🔥 [6] Domain CERT (Certificate) Information 🔥"
-      "\n🔥 [7] Domain Reputation using WhoisXML 🔥"
-      "\n🔥 [8] Subdomain scan 🔥"
-      "\n🔥 [9] Historical Whois Data 🔥")
+# Display Feature List
+def display_feature_list():
+    print("🔥 [1] Domain Registration 🔥"
+          "\n🔥 [2] Domain IP and Data 🔥"
+          "\n🔥 [3] IP Search (Extract Domains with Same IP) 🔥"
+          "\n🔥 [4]FDNS Records 🔥"
+          "\n🔥 [5] Whois Domain Information 🔥"
+          "\n🔥 [6] Domain CERT (Certificate) Information 🔥"
+          "\n🔥 [7] Domain Reputation using WhoisXML 🔥"
+          "\n🔥 [8] Subdomain scan 🔥"
+          "\n🔥 [9] Historical Whois Data 🔥")
 
 
 with open('config.json', 'r') as f:
@@ -111,6 +111,11 @@ def registrationstatus(domain_name):
         return False
     else:
         return bool(dn.domain_name)
+
+        # User input to open Feature List
+option = input("\nEnter 'FL' to open Feature List or press 'Enter' to continue. ")
+if option == "FL":
+    display_feature_list()
 
 
 print("\nVerifying Domain Registration...")
