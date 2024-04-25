@@ -15,6 +15,7 @@ import socket
 import requests
 import time
 import sys
+import os
 # import readline
 import json
 from pprint import pprint
@@ -54,6 +55,7 @@ class MyCrtsh:
         return certs
 
 
+
 # FireWatch Banner
 print("""\033[0;31m
  (                                                    
@@ -77,6 +79,24 @@ print("""\033[0;31m
   \033[0:33m""")
 
 time.sleep(3)
+
+def run_again():
+    while True:
+        response = input("Would you like to run FireWatch again? (yes/no): ").lower()
+        if response == 'yes' or response == 'y':
+            if os.path.exists("FireWatch.py"):
+                os.system("python FireWatch.py")
+                break
+            else:
+                print("Error: FireWatch.py not found.")
+        elif response == 'no' or response == 'n':
+            if os.path.exists("service_selector.py"):
+                os.system("python service_selector.py")
+                break
+            else:
+                print("Error: service_selector.py not found.")
+        else:
+            print("Invalid response. Please enter 'yes' or 'no'.")
 
 # Display Feature List
 def display_feature_list():
@@ -480,7 +500,8 @@ def subdomain_scanner(domain_name):
         sys.exit(1)
 
 
-#  WhoisFreaks Whois History
+
+# Whois History search
 def whois_history(domain_name):
     """
     Whois History search
@@ -500,9 +521,9 @@ def whois_history(domain_name):
 
     time.sleep(3)
 
-    # Termination Message
-    print("\n\n\n\033[0;33m\033[1m Looks like you're burnt out... that's it for now.")
-    sys.exit(1)
+    run_again()
+
+
 
 
 # Dig/No Dig
@@ -516,6 +537,8 @@ else:
     print(domain)
     print("\033[0;32mThis means that you will now be taken straight to the Reverse DNS search module...")
     dns_records(domain)
+
+
 
 
 # Main
@@ -534,6 +557,12 @@ def main():
     subdomain_scanner()
     whois_history()
 
+    while True:
+        run_again()
 
 if __name__ == '__main__':
     main()
+
+if __name__ == '__main__':
+    main()
+    run_again()
