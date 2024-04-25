@@ -14,7 +14,7 @@
 
 ## Introduction<a name="introduction"></a> ✍️
 
-The FireWatch Suite provides a set of simple API tools for conducting various types of OSINT analysis on domains and hosts. From domain registration checks to document identification, this suite offers a near comprehensive solution for information gathering.
+The FireWatch Suite provides a set of simple API tools for conducting various types of OSINT analysis on domains and hosts. From domain registration checks to document identification, this suite offers a near comprehensive solution for public facing domain information gathering.
 
 The suite relies on Several API's:
 
@@ -64,22 +64,24 @@ python Service_selector.py
 
 ### FireWatch Module<a name="firewatch-module"></a> 🔥
 
-The FireWatch Module, also known as Firewatch.py, is a tool for host enumeration and data analysis. It provides functionalities such as domain registration checks, domain IP lookup, reverse IP lookup, DNS record retrieval, WHOIS information retrieval, certificate (CERT) information retrieval, domain reputation check, subdomain scanning, and historical WHOIS data retrieval.
+The FireWatch Module, also known as Firewatch.py, is a tool for host enumeration and data analysis. It provides functionalities such as domain registration checks, domain IP lookup, reverse IP lookup, DNS record retrieval, WHOIS information retrieval, certificate (CERT) information retrieval, domain reputation check, subdomain scanning, and historical WHOIS data retrieval. This tool combines all of these metrics into easily readable terminal outputs.
 
 ### Intel-Xtinguisher Module<a name="intel-xtinguisher-module"></a> 🧯
 
-The Intel-Xtinguisher Module, also known as `intelx_scan.py`, focuses on document analysis and enumeration. It provides features for searching and analyzing documents using the intelx.io platform. It offers advanced parameters inline with Intelx.io's API documentation.
+The Intel-Xtinguisher Module, also known as `intelx_scan.py`, focuses on document analysis and enumeration. It provides features for searching and analyzing files/documents using the intelx.io platform. It additionally offers advanced parameters that are further detailed in Intelx.io's API documentation.
 
- * This module also exports results to an easily readable .csv file!
+ * This module also exports results to an easily readable .csv file! 😃
 
 ### Shodan Module<a name="shodan-module"></a> 🚧
 
 The (Unfinished) Shodan Module, also known as `shodan_scan2.py`, offers an (albeit less powerful) alternative to the FireWatch Module. It provides functionalities for conducting host enumeration and data analysis using the Shodan platform as a second source of info.
+ 
+* When finished, this module will focus on ennumerating Industrial Control Systems (ICS) related to Smart Buildimg and manufacturing reconaissance efforts. In it's current state, it is rather redundant; however this will change soon.
 
 ## Service Selector<a name="service-selector"></a> ☝️
 
-The `Service_selector.py` file serves as a main menu for accessing different modules within the FireWatch Suite. It allows users to select a service from a list of available options.
+The `Service_selector.py` file serves as a main menu for accessing different modules within the FireWatch Suite. It allows users to select a service from a list of available options. It isn't necessary to utilize, however it may keep things more organized in the event you'd like to process multiple requests.
 
-## Creator<a name="creator"></a>
+## Creator/Remarks<a name="creator"></a>
 
-The FireWatch Suite was created by Zachary Longo with the help of AI coding assistants and accompanying API Documentation linked in the sources tab contained within this repositories wiki.
+The FireWatch Suite and its modules were created by I (Zachary Longo) utilizing a mixture between official API Documentation, forum posts, and aid from ChatGPT/Github Co-Pilot. All sources are linked in the sources tab contained within this repositories wiki.
