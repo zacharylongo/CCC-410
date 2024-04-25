@@ -98,6 +98,34 @@ WHOIS_XML_API_KEY = config['WHOIS_XML_API_KEY']
 HACKERTARGET_API_KEY = config['HACKERTARGET_API_KEY']
 WHOIS_FREAKS_API_KEY = config['WHOIS_FREAKS_API_KEY']
 
+import json
+
+def update_config(config_file='config.json', default_config_file='default_config.json'):
+    # Load config.json and default_config.json
+    with open(config_file, 'r') as f:
+        config = json.load(f)
+        
+    with open(default_config_file, 'r') as f:
+        default_config = json.load(f)
+        
+    # Check if config matches default_config
+    if config == default_config:
+        print("Config file matches default configuration.")
+        # Prompt user for API keys
+        config['WHOIS_XML_API_KEY'] = input("Enter WHOIS XML API key: ")
+        config['HACKERTARGET_API_KEY'] = input("Enter HackerTarget API key: ")
+        config['WHOIS_FREAKS_API_KEY'] = input("Enter WHOIS Freaks API key: ")
+        # Optionally add more keys as needed
+        # Save updated config to config.json
+        with open(config_file, 'w') as f:
+            json.dump(config, f, indent=4)
+        print("Config updated successfully.")
+    else:
+        print("Config file is customized. Confirm if it's good to go.")
+
+# Call the function
+update_config()
+
 
 # Registration Check
 def registrationstatus(domain_name):
