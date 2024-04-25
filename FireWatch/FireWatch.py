@@ -80,15 +80,15 @@ time.sleep(3)
 
 # Display Feature List
 def display_feature_list():
-    print("🔥 [1] Domain Registration 🔥"
-          "\n🔥 [2] Domain IP and Data 🔥"
-          "\n🔥 [3] IP Search (Extract Domains with Same IP) 🔥"
-          "\n🔥 [4]FDNS Records 🔥"
-          "\n🔥 [5] Whois Domain Information 🔥"
-          "\n🔥 [6] Domain CERT (Certificate) Information 🔥"
-          "\n🔥 [7] Domain Reputation using WhoisXML 🔥"
-          "\n🔥 [8] Subdomain scan 🔥"
-          "\n🔥 [9] Historical Whois Data 🔥")
+    print("🔥 Domain Registration 🔥"
+          "\n🔥 Domain IP and Data 🔥"
+          "\n🔥 IP Search (Duplicate IP scan) 🔥"
+          "\n🔥 FDNS Records 🔥"
+          "\n🔥 Whois Domain Information 🔥"
+          "\n🔥 Domain CERT scan (Certificate Information) 🔥"
+          "\n🔥 Domain Reputation 🔥"
+          "\n🔥 Subdomain scan 🔥"
+          "\n🔥 Historical Whois Data 🔥")
 
 
 with open('config.json', 'r') as f:
