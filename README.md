@@ -84,4 +84,7 @@ The `Service_selector.py` file serves as a main menu for accessing different mod
 
 ## Creator/Remarks<a name="creator"></a>
 
-The FireWatch Suite and its modules were created by I (Zachary Longo) utilizing a mixture between official API Documentation, forum posts, and aid from ChatGPT/Github Co-Pilot. All sources are linked in the sources tab contained within this repositories wiki.
+The FireWatch Suite was compiled by Zachary Longo.
+
+FireWatch's main functions are based on CentralIntelAgency's WebOSINT tool. I have notably improved this program by tightening up functions, adding new features, and intergrating it into the overall FireWatch suite. 
+Both the Shodan module and Intel(X)tinguisher are desgined entirely by Zachary Longo using the official documentation and SDK's of the respective tools.
