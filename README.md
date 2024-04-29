@@ -1,5 +1,11 @@
 <img width="900" alt="Firewatch " src="https://github.com/zacharylongo/CCC-410/assets/71234688/0a2fb711-9bfb-4186-9416-cc0cf5e14ff1">
 
+## Project Documentation:
+
+[FireWatch Wiki](https://github.com/zacharylongo/CCC-410/wiki)
+
+* Alternatively please click on the "Wiki" tab.
+
 ## Table of Contents 🔥
 
 1. [Introduction](#introduction) 
@@ -29,6 +35,8 @@ The suite relies on Several API's:
 * Shodan.io 💲⚠️
 * WhoIsXML.io ⚠️
 * WhoIsFreaks 👍
+
+
 
 ## Installation<a name="installation"></a> 🔨
 
